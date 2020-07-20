@@ -7,10 +7,11 @@
 <a href=https://codepen.io/poojavpatil target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="poojavpatil" height="20" width="20" /></a>
 <a href=https://twitter.com/poojavp15 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="poojavpatil" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/poojavpatil target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="poojavpatil" height="20" width="20" /></a>  
+</p>
 
 ****
-</p>
 <h3 align="center">A passionate Full Stack Web Developer and a Machine Learning Enthusiast</h3>
+****
 
 - 🔭 I’m currently working on [Covid-19-Face-Mask-Detector](https://github.com/poojavpatil/Covid-19-Face-Mask-Detector)
 
