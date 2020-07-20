@@ -1,4 +1,4 @@
-### Hi there 👋, I am Pooja!
+<h1 align="center">Hi 👋, I'm Pooja!</h1>
 
 <h3 align="center">A passionate Full Stack Web Developer and a Machine Learning Enthusiast</h3>
 
