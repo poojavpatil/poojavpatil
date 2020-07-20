@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja!</h1>
 <p align="center">
-  <img src = "https://github.com/poojavpatil/poojavpatil/blob/master/P.png?raw=true" width = "200" height = "200"/>
+  <img src = "https://github.com/poojavpatil/poojavpatil/blob/master/P.png?raw=true" width = "250" height = "250"/>
 </p>
 
 <p align="center">
