@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Pooja!
 
-<!--
-**poojavpatil/poojavpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1 align="center">Hi 👋, I'm Pooja!</h1>
 <h3 align="center">A passionate Full Stack Web Developer and a Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on [Covid-19-Face-Mask-Detector](https://github.com/poojavpatil/Covid-19-Face-Mask-Detector)
