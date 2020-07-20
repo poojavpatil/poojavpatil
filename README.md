@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja!</h1>
 
 <p align="center">
-<img src="poojavpatil/Pooja.jpg" alt="Me!" width="300" height="100"/>
+<img src="/poojavpatil/Pooja.jpg" alt="Me!" width="300" height="100"/>
   </p>
 
 <p align="center">
