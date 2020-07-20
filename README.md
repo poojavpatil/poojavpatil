@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Pooja!
 
 <h3 align="center">A passionate Full Stack Web Developer and a Machine Learning Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/poojavpatil" alt="https://github.com/poojavpatil" /> </p>
-
 
 - 🔭 I’m currently working on [Covid-19-Face-Mask-Detector](https://github.com/poojavpatil/Covid-19-Face-Mask-Detector)
 
