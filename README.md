@@ -9,6 +9,10 @@
 <a href=https://linkedin.com/in/poojavpatil target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="poojavpatil" height="20" width="20" /></a>  
 </p>
 
+
+
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojavpatil" alt="poojavpatil" /> </p>*/
+
 ****
 <h3 align="center">A passionate Full Stack Web Developer and a Machine Learning Enthusiast.</h3>
 
@@ -23,8 +27,6 @@
 - 📫 How to reach me **poojavpatil295@gmail.com**
 
 - ⚡ Fun fact **I solemnly swear that I am up to no good! ⚡👓**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojavpatil" alt="poojavpatil" /> </p>
 
 ****
 
