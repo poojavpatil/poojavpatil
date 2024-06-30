@@ -10,17 +10,17 @@
 </p>
 
 ****
-<h3 align="center">A passionate Full Stack Web Developer and a Machine Learning Enthusiast.</h3>
+<h3 align="center">A passionate Full Stack Web Developer.</h3>
 
 ****
 
-- 🔭 I’m currently working on [Covid-19-Face-Mask-Detector](https://github.com/poojavpatil/Covid-19-Face-Mask-Detector)
+- 🔭 I’m currently working in **Barclays**
 
 - 👨‍💻 All of my projects are available at [https://poojavpatil.github.io/Portfolio/](https://poojavpatil.github.io/Portfolio/)
 
 - 💬 Ask me about **Full Stack Web Development, Java**
 
-- 📫 How to reach me **poojavpatil295@gmail.com**
+- 📫 How to reach me **patil.pooja.vishwanath@gmail.com**
 
 - ⚡ Fun fact **I solemnly swear that I am up to no good! ⚡👓**
 
